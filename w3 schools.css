@@ -1,0 +1,683 @@
+.main_div{
+    width: 100%;
+    height: 749px;
+    background: #282a35;
+}
+body{
+    margin: 0%;
+}
+.header_div{
+    background: white;
+    width: 100%;
+    height: 80px;
+   
+}
+.logo_div{
+    width: 70px;
+    height: 80px;
+    margin-left: 7px;
+    float: left;
+}
+.logo{
+    width: 70px;
+    height: 70px;
+    margin-top: 5px;
+}
+.tutorial_button{
+    font-size: medium;
+    font-weight: bold;
+    border: none;
+    height: 83px;
+    margin-top: -78px;
+}
+.tutorials_div{
+    width: 60px;
+    width: 80px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.tutorial_button:hover{
+    background: green;
+}
+.reference_div{
+    width: 60px;
+    width: 80px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.reference_button{
+    font-size: medium;
+    font-weight: bold;
+    border: none;
+    height: 83px;
+    margin-top: -78px;
+}
+.reference_button:hover{
+    background: green;
+}
+.excercise_div{
+    width: 60px;
+    width: 80px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.excercise_button{
+    font-size: medium;
+    font-weight: bold;
+    border: none;
+    height: 83px;
+    margin-top: -78px;
+}
+.excercise_button:hover{
+    background: green;
+}
+.videos_div{
+    width: 60px;
+    width: 80px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.videos_button{
+    font-size: medium;
+    font-weight: bold;
+    border: none;
+    height: 82px;
+    margin-top: -78px;
+    background: white;
+}
+.videos_button:hover{
+    background: green;
+}
+.blank_div{
+    width: 280px;
+    height: 80px;
+    float: left;
+    margin-left: 10px;
+}
+.dark_mode{
+    margin-top: -11px;
+    width: 50px;
+    height:50px;
+}
+.dark_mode:hover{
+    background: green;
+}
+.image_div{
+    width: 60px;
+    width: 80px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.earth_div{
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin-left: -20px;
+}
+.earth_logo{
+    margin-top: 25px;
+    width: 41px;
+    height: 38px;
+}
+.earth_logo:hover{
+    cursor: pointer;
+}
+.dark_mode:hover{
+    cursor: pointer;
+}
+.search_div{
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin-left: -20px;
+}
+.search_logo{
+    margin-top: 35px;
+    margin-left: 8px;
+    float: left;
+}
+.search_logo:hover{
+    cursor: pointer;
+    color: green;
+}
+.pro_div{
+    width: 100px;
+    height: 80px;
+    float: left;
+    margin-left: -9px;
+}
+.pro_button{
+    border: none;
+    width: 100px;
+    height: 50px;
+    border-radius: 25px;
+    margin-top: 17px;
+    background: white;
+    margin-left: -26px;
+    font-size: medium;
+    font-weight: bold;
+    float: left;
+    text-align: left;
+}
+.new_button{
+    border-radius: 25px;
+    background: white;
+    margin-left: 24px;
+    float: left;
+    margin-top: -33px;
+    width: 35px;
+    height: 16px;
+    font-weight: bold;
+    font-size: xx-small;
+    border-width: 1px;
+}
+.pro_button:hover{
+    background: green;
+    cursor: pointer;
+}
+.getcertified_div{
+    width: 150px;
+    height: 80px;
+    float: left;
+    margin-left: 10px;
+}
+.getcertified_button{
+    width: 145px;
+    height: 50px;
+    border-radius: 25px;
+    background: #fec0c6;
+    margin-top: 16px;
+    border-width: 0px;
+    font-size: medium;
+    font-weight: 550;
+    margin-left: -35px;
+}
+.getcertified_button:hover{
+    cursor: pointer;
+    background: green;
+}
+.website_div{
+    width: 100px;
+    height: 80px;
+    float: left;
+}
+.website_button{
+    width: 120px;
+    height: 50px;
+    border-radius: 25px;
+    margin-top: 16px;
+    border-width: 0px;
+    font-size: medium;
+    font-weight: 550;
+    margin-left: -35px;
+    background: white;
+}
+.website_button:hover{
+    cursor: pointer;
+    background: green;
+}
+.login_div{
+    width: 100px;
+    height: 80px;
+    float: left;
+}
+.login_button{
+    width: 130px;
+    height: 50px;
+    border-radius: 25px;
+    margin-top: 16px;
+    border-width: 0px;
+    font-size: medium;
+    font-weight: 550;
+    margin-left: -10px;
+    background:#04a96d;
+}
+.login_button:hover{
+    cursor: pointer;
+    background: lightseagreen;
+}
+.body_div{
+    width: 100%;
+    height: 415px;
+    background:#282a35;
+}
+.subbody_div{
+    width: 500px;
+    height: 400px;
+    margin-left: 34%;
+    margin-top: 10px;
+   
+}
+.text_1{
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-top: 95px;
+    text-align: center;
+    color: white;
+    font-size: 65px;
+    margin-left: 5px;
+}
+.text_2{
+    color: #fec0c6;
+    font-family:'Source Sans Pro', sans-serif ;
+    margin-top: -20px;
+    margin-left: 26px;
+    font-size: 22px;
+    font-weight: 600;
+}
+.search_option{
+    background: white;
+    color: grey;
+    border-radius: 25px;
+    height: 40px;
+    text-align: left;
+    margin-top: 25px;
+    font-size: medium;
+    font-weight: bold;
+    width: 475px;
+}
+.search_button{
+   
+    color:white;
+    background: #04a96d;
+    border-radius: 25px;
+    height: 46px;
+    text-align: left;
+    margin-top: 25px;
+    font-size: medium;
+    font-weight: bold;
+    width: 108px;
+    margin-left: -95px;
+    border-color: green;
+    text-align: center;
+
+}
+.search_button:hover{
+    cursor: pointer;
+    background: lightseagreen;
+}
+.link_div{
+    width: 400px;
+    height: 60px;
+    margin-top: 40px;
+    margin-left: 112px;
+}
+.link{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif ;
+}
+.link:hover{
+    cursor: pointer;
+    color: #04a96d;
+}
+.image_div{
+    margin-left: 0px;
+    margin-top: -30px;
+
+}
+.image{
+    width: 1519px;
+}
+.main_div2{
+    width: 100%;
+    height: 590px;
+    background: #d9eee1;
+}
+.html_div{
+    width: 50%;
+    height: 100px;
+    margin-top: 10px;
+}
+.html_text{
+    text-align: center;
+    font-size: 80px;
+}
+.main_div3{
+    width: 50%;
+    margin-top: -40px;
+    font-family: 'Source Sans Pro', sans-serif ;
+    float: left;
+}
+.html_para{
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    margin-top: -15px;
+    font-family:'Source Sans Pro', sans-serif  ;
+}
+.html_learn{
+    text-align: center;
+    margin-left: 264px;
+    background: #04a96d;
+    border-radius: 25px;
+    color: white;
+    font-weight: bold;
+    width: 220px;
+    height: 40px;
+    border: none;
+    font-size: medium;
+}
+.html_learn:hover{
+    cursor: pointer;
+    background: green;
+}
+.html_video{
+    text-align: center;
+    margin-left: 264px;
+    background:#fef4a2;
+    border-radius: 25px;
+    color: black;
+    font-weight: bold;
+    width: 220px;
+    height: 40px;
+    border: none;
+    font-size: medium;
+    margin-top: 22px;
+}
+.html_video:hover{
+    cursor: pointer;
+    background:green ;
+}
+.html_references{
+    text-align: center;
+    margin-left: 264px;
+    background:#010100;
+    border-radius: 25px;
+    color: white;
+    font-weight: bold;
+    width: 220px;
+    height: 40px;
+    border: none;
+    font-size: medium;
+    margin-top: 22px;
+}
+.html_references:hover{
+    cursor: pointer;
+    background:green ;
+}
+.html_certificate{
+    text-align: center;
+    margin-left: 264px;
+    background:#f5b1ba;
+    border-radius: 25px;
+    color: black;
+    font-weight: bold;
+    width: 220px;
+    height: 40px;
+    border: none;
+    font-size: medium;
+    margin-top: 22px;
+}
+.main_div4{
+    width: 50%;
+    height: 533px;
+    margin-top: -40px;
+    font-family: 'Source Sans Pro', sans-serif ;
+    float: left;
+}
+.code_image{
+    width: 615px;
+    height: 460px;
+    margin-left: 34px;
+    box-shadow:.5px .5px;
+    float: left;
+}
+.tryyourself_div{
+    width: 220px;
+    height: 40px;
+    margin-top: -57px;
+    margin-left: 35px;
+    float: left;
+}
+.try_yourself{
+    text-align: center;
+    margin-left: 16px;
+    background:#04a96d;
+    border-radius: 25px;
+    color:white;
+    font-weight: bold;
+    width: 199px;
+    height: 43px;
+    border: none;
+    font-size: medium;
+    margin-top: -2px;
+    float: left;
+}
+.try_yourself:hover{
+    cursor: pointer;
+    background: green;
+}
+.final_div{
+    width: 100%;
+    height: 370px;
+    background: #282a35;
+}
+.finalsub_div{
+    width: 100%;
+    height: 50%;
+}
+.courses_button{
+    width:90px;
+    height: 45px;
+    margin-top: 50px;
+    margin-left: 40px;
+    border-radius: 8px;
+    font-weight: 550;
+    font-size: medium;
+    border-color: white;
+}
+.courses_button:hover{
+    cursor: pointer;
+}
+.quizzes_button{
+    width:90px;
+    height: 45px;
+    margin-top: 50px;
+    margin-left: 10px;
+    border-radius: 8px;
+    font-weight: 550;
+    font-size: medium;
+    border-color: white;
+}
+.quizzes_button:hover{
+    cursor: pointer;
+}
+.exercises_button2{
+    width:110px;
+    height: 45px;
+    margin-top: 50px;
+    margin-left: 10px;
+    border-radius: 8px;
+    font-weight: 550;
+    font-size: medium;
+    border-color: white;
+}
+.exercises_button2:hover{
+    cursor: pointer;
+}
+.pro_button2{
+    width:80px;
+    height: 45px;
+    margin-top: 50px;
+    margin-left: 10px;
+    border-radius: 8px;
+    font-weight: 550;
+    font-size: medium;
+    border-color: white;
+}
+.pro_button2:hover{
+    cursor: pointer;
+}
+.spaces_button{
+    width:90px;
+    height: 45px;
+    margin-top: 50px;
+    margin-left: 10px;
+    border-radius: 8px;
+    font-weight: 550;
+    font-size: medium;
+    border-color: white;
+}
+.spaces_button:hover{
+    cursor: pointer;
+}
+.forum_para{
+    margin-left: 1320px;
+    margin-top: -25px;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    letter-spacing: 4px;
+    font-size: small;
+    font-weight: 600;
+}
+.forum_para:hover{
+    color: #04a96d;
+    cursor: pointer;
+}
+.slash{
+    color: white;
+    margin-top: -31px;
+    margin-left: 1400px;
+    font-weight: 600;
+}
+.about_para{
+    margin-left: 1416px;
+    margin-top: -30px;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    letter-spacing: 4px;
+    font-size: small;
+    font-weight: 600;
+}
+.about_para:hover{
+    color: #04a96d;
+    cursor: pointer;
+}
+.ficon{
+    margin-top: 15px;
+    margin-left: 16px;
+    color: white;
+    
+}
+.icons_div{
+    border-radius: 6px;
+    margin-top: 40px;
+    width: 45px;
+    height: 45px;
+    margin-left: 1265px;
+    float: left;
+
+}
+.icons_div:hover{
+    background: white;
+    cursor: pointer;
+    color: #010100;
+}
+.ficon:hover{
+    cursor: pointer;
+    color: black;
+}
+.insta_icon{
+    margin-top: 15px;
+    margin-left: 16px;
+    color: white;
+}
+.icons_div2{
+    border-radius: 6px;
+    margin-top: -45px;
+    width: 45px;
+    height: 45px;
+    margin-left: 1325px;
+    float: left;
+}
+.icons_div2:hover{
+    cursor: pointer;
+    background: white;
+}
+.insta_icon:hover{
+    cursor: pointer;
+    background: black;
+}
+.li_icon{
+    margin-top: 15px;
+    margin-left: 16px;
+    color: white;
+}
+.icons_div3{
+    border-radius: 6px;
+    margin-top: -45px;
+    width: 45px;
+    height: 45px;
+    margin-left: 1387px;
+    float: left;
+}
+.icons_div3:hover{
+    cursor: pointer;
+    background: white;
+}
+.li_icon:hover{
+    cursor: pointer;
+    color: black;
+}
+.dis_icon{
+    margin-top: 15px;
+    margin-left: 14px;
+    color: white;
+}
+.icons_div4{
+    border-radius: 6px;
+    margin-top: -45px;
+    width: 45px;
+    height: 45px;
+    margin-left: 1450px;
+    float: left;
+}
+.dis_icon:hover{
+    cursor: pointer;
+    color: #010100;
+}
+.icons_div4:hover{
+    cursor: pointer;
+    background: white;
+}
+.finalsub_div2{
+    width: 100%;
+    height: 50%;
+    
+}
+.final_para1{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 13px;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-top: 15px;
+}
+.final_para2{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 13px;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-top: -5px;
+}
+.final_para3{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 13px;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-top: -5px;
+}
+.like_div{
+    width: 50px;
+    height: 50px;
+    margin-left: 715px;
+    margin-top: 30px;
+}
